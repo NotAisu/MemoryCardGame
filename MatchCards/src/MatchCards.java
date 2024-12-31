@@ -88,7 +88,7 @@ public class MatchCards {
     }
     
     private void startHideTimer() {
-        Timer timer = new Timer(15000, e -> gameLogic.hideSelectedCards());
+        Timer timer = new Timer(1500, e -> gameLogic.hideSelectedCards());
         timer.setRepeats(false);
         timer.start();
     }
