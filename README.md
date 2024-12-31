@@ -1,7 +1,7 @@
 # MemoryCardGame
 Ich erstelle mit Java ein Memory Card Game
 
-![Spielstartschirm](../MemoryCardGame/MatchCards/src/img/image.png)
+![Spielstartschirm](/MatchCards/src/img/image.png)
 
 
 
